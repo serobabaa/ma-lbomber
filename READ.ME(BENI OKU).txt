@@ -1,0 +1,10 @@
+MERHABA! maıl bomber serrms hakınnda bılgı verecegız. Serrms bızım yaptığımız ve bır  maıl bomberdır ılk once ılk açtığınızda uc seçenek goreceksınız bunlar: 
+1 NORMAL(3 maıl gonderır)
+2 TURBO(en fazla 12 tane maıl gonderır)
+3 CIKIS 
+bunlardan sonra mesela 2 dedık maıl adresı sordu bızde yazdık sonra soyle bır yazı geliyor kullanıcınında takıldığı yer:Bu hedefe gerçekten sahipsen veya açık izin verildiyse, 'I_OWN_TARGET' yazıp Enter'a bas. Aslında burda sadece I_OWN_TARGET yazıp enter basıcaksınız yanı bunu kolay bır doğrulama bot olmadığınızı anlamak amacıyla yazılmıştır. yanı sadece bu. Devam guncellemler yapılacaktır. 
+
+https://github.com/serobabaa 
+
+
+Saygılarla...
